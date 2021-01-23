@@ -1,0 +1,137 @@
+.imgs{
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cont{
+    margin-top: 10px;
+}
+.center{
+    justify-content: center;
+    text-align: center;
+}
+.conte{
+    background-color: aqua;
+}
+#grad1 {
+    background-color:#1fc8db;
+    background-image:  linear-gradient(140deg, orange 10%, #56ffe7 80%);
+        }
+        
+        
+}
+.center{
+    text-align:center;
+    /*border-bottom:2px solid rgba(46,46,46,0.2);*/
+    padding-bottom:20px;
+    padding-top: 20px;
+    justify-content: center;
+}
+.conten{
+    padding: 10px;
+}
+.imgse{
+    height: 150px;
+    width: 150px;
+
+}
+.pad{
+    padding: 10px;
+}
+.headi{
+     margin: 20px;
+}
+.section .section-head h3:after {
+    background: linear-gradient( #1e5799 0%,#3ccdbb 0%, #00252e 100%);
+    content: "";
+    display: block;
+    width: 120px;
+    height: 3px;
+    margin: 20px auto;
+}
+.extra-div{
+	padding:30px;
+	border-radius:3px;
+    transition:0.3s;
+    margin: 10px;
+    border: 2px solid rgb(221, 205, 205);
+    border-radius: 10px;
+}
+.extra-div:hover{
+	transform:translateY(-20px);
+	box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
+.extra-div:hover h5,.extra-div:hover p{
+	color:#00abff;
+}
+.imgh{
+    height: 200px;
+    width: 200px;
+}
+.imghh{
+    height: 120px;
+    width: 120px;
+}
+.ab{
+    padding-top: 30px;
+}
+.abb{
+    margin-top: 52px;
+}
+.abbb{
+    margin-top: 60px;
+}
+.h-co{
+    color: blue;
+}
+.p-2:hover{
+    color: rgb(5, 15, 148);
+}
+.img-b{
+    height: 150px;
+    width: 150px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.con-b{
+    justify-content: center;
+}
+.hed-m{
+    padding-top: 50px;
+}
+.img-ha{
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}
+.pad-c{
+   padding: 30px;
+}
+.img-own{
+    height: 150px;
+    width: 150px;
+}
+.pad-ha{
+     padding: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.fav-i{
+
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+.fav-i a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+}
+.fav-i a:hover{
+    color: grey;
+}
+
+
